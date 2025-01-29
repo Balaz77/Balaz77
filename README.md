@@ -29,4 +29,4 @@ Formado na **Etec de Taboão da Serra** em **Desenvolvimento de Sistemas**, busc
 ---
 
 ## 🌐 Vamos nos conectar!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/pedrobalazshazi](https://www.linkedin.com/in/pedro-balazshazi-66532b344/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-balazshazi-66532b344/)
