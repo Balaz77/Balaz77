@@ -1,5 +1,2 @@
-🏛 Estudante da etec de taboão da serra
-
-💻cursando o 3º módulo do curso de desenvolvimento de sistemas 
-
+🏛 Formado na Etec de Taboão da Serra - Tecnico em desenvolvimento de sistemas
 😎Bem vindo ao meu repositório!
