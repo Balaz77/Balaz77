@@ -1,7 +1,7 @@
 # Olá! 👋 Bem-vindo ao meu perfil!
 
 Eu sou o **Pedro Henrique**, desenvolvedor apaixonado por criar soluções inovadoras e funcionais. 🎯  
-Formado na **Etec de Taboão da Serra** em **Desenvolvimento de Sistemas**, busco sempre aprender e compartilhar conhecimento. 🚀  
+Formado na **Etec de Taboão da Serra** em **Desenvolvimento de Sistemas**, agora dando andamento na formação pela Unifecaf, busco aprimorar meh conhecimentos através de soluções criativas e inovadoras. 🚀  
 
 ---
 
